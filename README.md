@@ -19,9 +19,14 @@
 </p>
 
 <p align="left">
-	[![](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christianchiaveli/) 
+	<a href="https://www.linkedin.com/in/christianchiaveli/" alt="Linkedin" target="_blank">
+			<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white" /></a>
 
-	[![](https://img.shields.io/badge/-Outlook-0072C6?style=flat&labelColor=0072C6&logo=minutemailer&logoColor=white)](mailto:christian.chiaveli@outlook.com) 
+	<a href="mailto:christian.chiaveli@outlook.com" alt="Outlook" target="_blank">
+		<img
+			src="https://img.shields.io/badge/-Outlook-0072C6?style=flat&labelColor=0072C6&logo=minutemailer&logoColor=white" /></a>
 
-	[![](https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:christian.chiaveli@gmail.com)
+	<a href="mailto:christian.chiaveli@gmail.com" alt="Gmail" target="_blank">
+		<img
+			src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 </p>
