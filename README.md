@@ -18,15 +18,11 @@
 	Feel free to reach out to me through the links below:
 </p>
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/christianchiaveli/" alt="Linkedin" target="_blank">
-			<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/christianchiaveli/" alt="Linkedin" target="_blank">
+	<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white" /></a>
 
-	<a href="mailto:christian.chiaveli@outlook.com" alt="Outlook" target="_blank">
-		<img
-			src="https://img.shields.io/badge/-Outlook-0072C6?style=flat&labelColor=0072C6&logo=minutemailer&logoColor=white" /></a>
+<a href="mailto:christian.chiaveli@outlook.com" alt="Outlook" target="_blank">
+	<img src="https://img.shields.io/badge/-Outlook-0072C6?style=flat&logo=minutemailer&logoColor=white" /></a>
 
-	<a href="mailto:christian.chiaveli@gmail.com" alt="Gmail" target="_blank">
-		<img
-			src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="mailto:christian.chiaveli@gmail.com" alt="Gmail" target="_blank">
+	<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&logo=gmail&logoColor=white" /></a>
