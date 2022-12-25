@@ -1,28 +1,34 @@
-<img alt="Dev Laptop" title="Dev Laptop" src="/assets/dev-laptop.png" min-width="400px" max-width="300px" width="300px" align="right">
+# Hi, I'm Christian! 👋
 
-### Hi there! 👋
+## 🚀 About Me
+
+<img alt="Dev Laptop" title="Dev Laptop" src="/assets/dev-laptop.png" 
+	min-width="400px" max-width="300px" width="300px"	align="right">
 
 <p align="left">
-	My name is Christian, I am a web developer with experience in both back-end and front-end technologies.
+	I am a web developer with experience in both back-end and front-end technologies.
 </p>
 
 <p align="left">
-	I create websites that help organizations address business challenges and meet their needs. My expertise lies within web apps, and the main languages in my tech stack are .Net, JavaScript, Vue, and of course HTML/CSS.
+	I work by creating websites that help organizations address business challenges and meet their needs. My expertise	lies within web apps, and the main languages in my tech stack are .Net, JavaScript, Vue.js, and of course HTML/CSS.
 </p>
 
-<p align="left">
-	I’m a lifelong learner (currently taking a course on different types of architectures for back-end applications). I like to read, try new frameworks, listen to music, go to the gym, and also play card games with friends.
-</p>
+## 🛠 Skills
 
-<p align="left">
-	Feel free to reach out to me through the links below:
-</p>
+**Front-end**: Vue.js, React.js, TailwindCSS, Ant Design Vue, Bootstrap, CSS
 
-<a href="https://www.linkedin.com/in/christianchiaveli/" alt="Linkedin" target="_blank">
-	<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white" /></a>
+**Back-end**: .Net Framework, .Net Core, Optimizely (EpiServer), Microsoft SQL Server, Git
 
-<a href="mailto:christian.chiaveli@outlook.com" alt="Outlook" target="_blank">
-	<img src="https://img.shields.io/badge/-Outlook-0072C6?style=flat&logo=minutemailer&logoColor=white" /></a>
+## 📌 Curiosities
 
-<a href="mailto:christian.chiaveli@gmail.com" alt="Gmail" target="_blank">
-	<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&logo=gmail&logoColor=white" /></a>
+👩‍💻 I'm currently working at Valtech
+
+🧠 I'm currently learning Rust
+
+👾 Besides that, I like go to the gym and play card games
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white)](https://christianchiaveli.github.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianchiaveli/)
