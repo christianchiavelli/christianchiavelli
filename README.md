@@ -21,11 +21,11 @@
 
 ## 📌 Curiosities
 
-👩‍💻 I'm currently working at Valtech
+🧠 If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.
 
-🧠 I'm currently learning Rust
+🐕 I have a pug and he is the best partner ever!
 
-👾 Besides that, I like go to the gym and play card games
+👾 Besides that, I like go to the gym and play card games.
 
 ## 🔗 Links
 
