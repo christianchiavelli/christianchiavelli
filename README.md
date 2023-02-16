@@ -29,6 +29,6 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat&logo=ko-fi&logoColor=white)](https://christianchiaveli.github.io/)
+[![webcv](https://img.shields.io/badge/Web_CV-000?style=flat&logo=dev.to&logoColor=white)](https://chiavelli.dev/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianchiaveli/)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianchiavelli/)
