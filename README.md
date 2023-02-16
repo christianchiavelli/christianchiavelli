@@ -6,11 +6,15 @@
 	min-width="400px" max-width="300px" width="300px"	align="right">
 
 <p align="left">
-	I am a web developer with experience in both back-end and front-end technologies.
+	I am a full stack developer and I have been working as a software developer for the past four years.	
 </p>
 
 <p align="left">
-	I work by creating websites that help organizations address business challenges and meet their needs. My expertise	lies within web apps, and the main languages in my tech stack are .Net, JavaScript, Vue.js, and of course HTML/CSS.
+	I work by creating websites that help organizations address business challenges and meet their needs. 
+</p>
+
+<p align="left">
+	My expertise	lies within web apps, and the main languages in my tech stack are .Net, JavaScript, Vue.js, and of course HTML/CSS.
 </p>
 
 ## 🛠 Skills
