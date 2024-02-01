@@ -6,7 +6,7 @@
 	min-width="400px" max-width="300px" width="300px"	align="right">
 
 <p align="left">
-	I am a full stack developer and I have been working as a software developer for the past four years.	
+	I am a full-stack developer and I have been working as a software developer for the past five years.	
 </p>
 
 <p align="left">
@@ -14,14 +14,14 @@
 </p>
 
 <p align="left">
-	My expertise	lies within web apps, and the main languages in my tech stack are .Net, JavaScript, Vue.js, and of course HTML/CSS.
+	My expertise lies within web apps, and the main languages in my tech stack are .Net, JavaScript, Vue.js, and of course HTML/CSS.
 </p>
 
 ## 🛠 Skills
 
-**Front-end**: Vue.js, React.js, TailwindCSS, Ant Design Vue, Bootstrap, CSS
+**Front-end**: Vue.js, Vuetify, Ant Design Vue, TailwindCSS, Bootstrap, CSS, Sass and Less
 
-**Back-end**: .Net Framework, .Net Core, Optimizely (EpiServer), Microsoft SQL Server, Git
+**Back-end**: .Net Framework, .Net Core, Microsoft SQL Server, and Git
 
 ## 📌 Curiosities
 
@@ -29,7 +29,7 @@
 
 🐕 I have a pug and he is the best partner ever!
 
-👾 Besides that, I like go to the gym and play card games.
+👾 Besides that, I like to go to the gym and play card games.
 
 ## 🔗 Links
 
