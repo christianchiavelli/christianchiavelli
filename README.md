@@ -2,19 +2,19 @@
 
 ## 🚀 About Me
 
-<img alt="Dev Laptop" title="Dev Laptop" src="/assets/dev-laptop.png" 
+<img alt="Dev Laptop" title="Dev Laptop" src="/assets/dev-laptop.png"
 	min-width="400px" max-width="300px" width="300px"	align="right">
 
 <p align="left">
-	I am a full-stack developer and I have been working as a software developer for the past five years.	
+	I am a full-stack developer with over five years of experience in software development.
 </p>
 
 <p align="left">
-	I work by creating websites that help organizations address business challenges and meet their needs. 
+	I specialize in creating websites that help organizations overcome business challenges and meet their goals.
 </p>
 
 <p align="left">
-	My expertise lies within web apps, and the main languages in my tech stack are .Net, JavaScript, Vue.js, and of course HTML/CSS.
+	My expertise lies in web applications, and my primary tech stack includes .NET, JavaScript, Vue.js, and HTML/CSS.
 </p>
 
 ## 🛠 Skills
@@ -25,11 +25,11 @@
 
 ## 📌 Curiosities
 
-🧠 If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.
+🧠 If I could have any superpower, it would be the ability to speak any language, so I could connect with anyone in the world.
 
-🐕 I have a pug and he is the best partner ever!
+🐕 I have a pug who is the best companion ever!
 
-👾 Besides that, I like to go to the gym and play card games.
+👾 Besides coding, I enjoy going to the gym and playing card games.
 
 ## 🔗 Links
 
