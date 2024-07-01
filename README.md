@@ -19,9 +19,9 @@
 
 ## 🛠 Skills
 
-**Front-End**: Vue.js, Vuetify, Ant Design Vue, TailwindCSS, Bootstrap, CSS, Sass and Less
+**Front-end**: Vue.js, Vuetify, Ant Design Vue, TailwindCSS, Bootstrap, CSS, Sass and Less
 
-**Back-End**: .Net Framework, .Net Core, Microsoft SQL Server, and Git
+**Back-end**: .Net Framework, .Net Core, Microsoft SQL Server, and Git
 
 ## 📌 Curiosities
 
