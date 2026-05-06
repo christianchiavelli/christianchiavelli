@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Christian Leonardo Chiavelli</h1>
   <h3>Senior Full Stack Developer</h3>
-  <p>9 years of experience • São Paulo, Brazil</p>
+  <p>10 years of experience • São Paulo, Brazil</p>
 
   <a href="mailto:christian.chiavelli@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
