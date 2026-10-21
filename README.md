@@ -1,145 +1,129 @@
 <div align="center">
-  <h1>Christian Leonardo Chiavelli</h1>
-  <h3>Senior Full Stack Developer</h3>
-  <p>10 years of experience • São Paulo, Brazil</p>
+  <h1>Christian Chiavelli</h1>
+  <p><b>Senior Software Engineer</b> · Full stack with a front-end focus</p>
+  <p>Vue.js · Nuxt · TypeScript · .NET · C# · SQL Server</p>
 
+  <a href="https://www.linkedin.com/in/christianchiavelli">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:christian.chiavelli@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/christianchiavelli">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://chiavelli.dev/">
-    <img src="https://img.shields.io/badge/Resume-14B8A6?style=flat-square&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=flat-square&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br/>
 
-## Highlights
+I'm a senior software engineer focused on the front end of web products, with enough .NET and SQL Server experience to take a feature from the database to the screen. I've been building web applications since 2016, and I work in English with U.S.-based teams from São Paulo, Brazil.
 
-- **Fintech:** Reduced operational costs in debt collection platforms serving major Brazilian banks
-- **Global brands:** Delivered CMS solutions for international clients in automotive and education sectors
-- **Data-driven:** Built real-time analytics dashboards integrating multiple delivery platforms (iFood, Uber Eats, Rappi)
-- **Full-stack expertise:** From Vue.js/Nuxt.js frontends to .NET/C# backends, SQL/MongoDB databases
-- **Production-ready:** Shipped features to thousands of users across franchise networks and financial institutions
+Most of my recent work is modernizing systems that can't stop running. Right now I'm part of a team moving a large business intelligence platform for the foodservice industry from .NET Razor views to Nuxt 4 and .NET APIs, one screen at a time, with old and new screens running side by side behind a YARP reverse proxy.
 
-<br/>
+## Featured projects
 
-## About
+Built on public data. Each one runs with a single command, needs no API key or account, and works in English and Brazilian Portuguese.
 
-I build systems that work at scale. Over the past 9 years, I've shipped production code across **fintech**, **franchise management**, **customer support platforms**, and **enterprise CMS solutions**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/christianchiavelli/larder"><img src="https://raw.githubusercontent.com/christianchiavelli/larder/main/docs/screenshots/directory-light.png" alt="Larder's product directory, with faceted filters and Nutri-Score grading" /></a>
+      <h3><a href="https://github.com/christianchiavelli/larder">Larder</a></h3>
+      <p>Food product analytics on the Open Food Facts catalogue, roughly 3.5 million packaged products, handled honestly where the data is incomplete.</p>
+      <p><sub>Nuxt 4 · Vue 3.5 · Tailwind 4 · Nitro BFF · Storybook</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/christianchiavelli/deckle"><img src="https://raw.githubusercontent.com/christianchiavelli/deckle/main/docs/screenshots/work-light.png" alt="Deckle's page for Melencolia I, offering only the paper sizes its scan can hold" /></a>
+      <h3><a href="https://github.com/christianchiavelli/deckle">Deckle</a></h3>
+      <p>A headless print shop on The Met's public-domain collection, with numbered drops that never oversell.</p>
+      <p><sub>Next.js 16 · NestJS GraphQL · Vendure · Payload · Postgres 18</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/christianchiavelli/faultline"><img src="https://raw.githubusercontent.com/christianchiavelli/faultline/main/docs/screenshots/live-paper.png" alt="Faultline's 24-hour helicorder with the day's largest earthquakes labelled" /></a>
+      <h3><a href="https://github.com/christianchiavelli/faultline">Faultline</a></h3>
+      <p>A live seismograph of the planet on USGS earthquake data, drawn the way a drum seismograph records a day.</p>
+      <p><sub>Angular 22 · SSR with incremental hydration · Express BFF</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/christianchiavelli/spillway"><img src="https://raw.githubusercontent.com/christianchiavelli/spillway/main/docs/screenshots/overview.png" alt="Spillway's overview of a day of curtailed wind and solar energy, hour by hour" /></a>
+      <h3><a href="https://github.com/christianchiavelli/spillway">Spillway</a></h3>
+      <p>Alerts on the wind and solar energy Brazil's grid operator keeps from being generated, from the ONS's open data.</p>
+      <p><sub>SvelteKit 3 · Go 1.27 · Postgres 18 · OpenAPI 3.1</sub></p>
+    </td>
+  </tr>
+</table>
 
-I solve complex technical problems: integrating third-party APIs, optimizing database performance, and architecting maintainable frontends. My work directly impacts operational efficiency and bottom-line metrics.
+Also: [modular-monolith-ticketing](https://github.com/christianchiavelli/modular-monolith-ticketing), the architecture report from my postgraduate program in Software Architecture at Infnet. It designs an online ticketing system as a modular monolith, with an admission pipeline, domain events, ADRs and the C4 model.
 
-Currently focused on fintech at HCosta, where I'm building self-service payment systems and centralized authentication tools.
+## What I work with
 
-<br/>
-
-## Tech Stack
-
-**Frontend:** Vue.js, Nuxt.js, React, Next.js, Angular, TypeScript, JavaScript, HTML5, TailwindCSS, Sass  
-**Backend:** C#, .NET, NestJS, PHP, Laravel
-**Databases:** SQL Server, MongoDB, SQLite, PostgreSQL  
-**Tools & Platforms:** Docker, Git, Azure DevOps, GitLab, Jira, Figma, Swagger
-
-<br/>
+**Front end:** Vue 3, Nuxt, TypeScript, Pinia, Tailwind CSS, Storybook, React, Next.js, Angular  
+**Back end:** C#, ASP.NET Core, Entity Framework Core, Dapper, Node.js (NestJS, Express), Go  
+**Data:** SQL Server, PostgreSQL, MongoDB  
+**Quality and delivery:** Vitest, Vue Test Utils, Playwright, axe, GitHub Actions, Azure DevOps, Docker
 
 ## Experience
 
-### **HCosta**
-**Senior Full Stack Developer** • Sep 2024 – Present • Bauru, Brazil
-
-Building fintech solutions for debt collection company with 2,000+ employees partnered with major Brazilian banks. Developed **QuitaWeb**, a self-service payment platform where customers manage and pay their debts independently.
-
-- **QuitaWeb platform:** Built customer-facing portal for debt consultation and online payment processing
-- **Channels Hub:** Developed routing system directing customers to appropriate payment channels (0800, email, WhatsApp, phone) based on creditor bank (Itaú, Bradesco, Volkswagen, Santander, Traton, Stellantis, RCB, among others)
-- **Multi-tenant authentication:** Created centralized login system consolidating authentication across all HCosta applications, replacing individual login screens for each app
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxtdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=Vitest&logoColor=fcd703) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-F7C922?style=flat-square&logo=Miro&logoColor=050036)
-
+<details>
+<summary><b>Chiavelli Dev</b> · Senior Software Engineer · Apr 2024 – present · Remote</summary>
 <br/>
 
-### **Valtech**
-**Full Stack Developer** • Mar 2022 – Sep 2024
+Contract software engineering through my own company. Current engagement: modernizing a large business intelligence platform for the foodservice industry, from .NET Razor views to a Nuxt 4 front end and .NET APIs, screen by screen.
 
-Developed custom CMS solutions and enterprise websites for international clients. Led full-stack implementation from design handoff to production deployment.
+- Legacy and new screens run side by side behind a YARP reverse proxy (Strangler Fig), so each screen ships on its own and users never face a big-bang cutover
+- Own product areas end to end: analytics dashboards with Highcharts, choropleth maps, and URL-driven filter state that keeps legacy deep links working
+- Recover business rules buried in legacy controllers and stored procedures, so every rewritten screen matches production
+- Build ASP.NET Core (.NET 9) endpoints with Entity Framework Core and Dapper on SQL Server, consumed through typed TypeScript clients
+- Contributed to the migration of 40+ routes to the new front end so far
 
-- **Abeka (Education):** Built content management system and digital platform for Christian educational materials publisher
-- **ADM Nutritions (Corporate):** Developed enterprise website and content management tools for global nutrition company
-- **Full-stack delivery:** Implemented frontend interfaces, backend APIs, and database architecture for both projects
+</details>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=Vitest&logoColor=fcd703) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-
+<details>
+<summary><b>HCosta</b> · Senior Full Stack Developer · Sep 2024 – Dec 2025 · Bauru, Brazil</summary>
 <br/>
 
-### **Linx Stone**
-**Systems Analyst** • Jan 2021 – Feb 2022 • Bauru, Brazil
+- Led the front end of new web applications built from scratch, defining the Nuxt 3, Vue 3 and TypeScript architecture
+- Created a private npm package of shared UI components, so the applications reused one component set
+- Designed and built REST APIs in .NET Core with Entity Framework and SQL Server, including JWT authentication
+- Took ownership of legacy Django and MongoDB services, consolidating data under a single access layer
 
-Worked in food service division supporting franchise management systems for major quick-service chains: **Bob's**, **Milk Moo**, **Habib's**, and **Ragazzo**.
+</details>
 
-- **Sales analytics:** Built dashboard integrating delivery platform data (iFood, Uber Eats, Rappi) for franchise operators
-- **Franchise tools:** Developed features for sales tracking, inventory management, and operational reporting
-- **Platform integration:** Connected third-party delivery APIs to centralized franchise management system
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=flat-square&logo=antdesign&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-
+<details>
+<summary><b>Valtech</b> · Full Stack Developer · Mar 2022 – Sep 2024 · Remote</summary>
 <br/>
 
-### **NeoAssist**
-**Front-End Developer** • Jan 2020 – Dec 2020 • Bauru, Brazil
+- Built Vue 3 and TypeScript interfaces on Optimizely CMS with a .NET back end for Valtech's global clients
+- Modernized legacy client applications through incremental migrations to Vue 3, with zero-downtime releases
+- Standardized a UI component library documented in Storybook, and added unit and end-to-end tests with Vitest and Cypress
 
-Developed omnichannel customer service platform embedded in client websites. Built customer-facing help centers, FAQ sections, and live chat widgets integrating email, chat, and phone support.
+</details>
 
-- **Customer service widgets:** Created embeddable components for help sections and live chat on client websites
-- **Multi-channel interface:** Built unified dashboard for support agents handling customer inquiries across channels
-- **Frontend features:** Developed customization tools allowing clients to match widgets to their brand identity
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-3A33D1?style=flat-square&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-
+<details>
+<summary><b>Linx</b> · Developer Analyst · Jan 2021 – Feb 2022 · Bauru, Brazil</summary>
 <br/>
 
-### **Zeon Solutions**
-**Web Developer** • Jun 2018 – Dec 2019 • Bauru, Brazil
+- Worked on a foodservice product that consolidated sales from delivery platforms into a single view for operators
+- Built back-end services in .NET Core with Entity Framework, Dapper and SQL Server, and dashboards with AG Grid and Vue 2
+- Implemented real-time updates with SignalR and JWT-based authentication
 
-Maintained legacy ERP system for local manufacturing company. Provided technical support, bug fixes, and developed custom reports.
+</details>
 
-- **Legacy maintenance:** Debugged and fixed issues in production ERP system
-- **Custom reporting:** Developed financial and inventory reports for internal teams
-- **Technical support:** Assisted users with system issues and provided training on new features
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-
+<details>
+<summary><b>NeoAssist</b> · Front-End Developer · Jan 2020 – Jan 2021 · Bauru, Brazil</summary>
 <br/>
 
-### **Arca Solutions**
-**Customer Success** • Jun 2017 – Jun 2018 • Bauru, Brazil
+- Front-end work on an omnichannel customer service platform built in Vue 2 and Vuex
+- Customized the platform as a white-label product for new clients, adapting it to each client's brand
 
-Provided English-language technical support for international SaaS clients across North America and Europe as part of support team. Debugged and patched production issues directly in PHP/Symfony codebase.
+</details>
 
-- **International support:** Resolved technical tickets via Salesforce, live chat, and email in English
-- **Code-level fixes:** Debugged production issues and implemented patches in PHP/Symfony platform
-- **Customer communication:** Translated technical issues into clear explanations for non-technical clients
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=Symfony&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-
-<br/>
-
-### **MStech**
-**Web Developer Intern** • May 2016 – Sep 2016 • Bauru, Brazil
-
-Built features for educational financial management system deployed across 200+ public schools in **São Paulo** and **Rio Grande do Sul** states.
-
-- **Report generation:** Developed student enrollment and budget tracking reports for school administrators
-- **Frontend features:** Implemented form validations and UI components for financial workflows
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white) ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-
-<br/>
-
----
+Earlier: web developer at Zeon Solutions (2018–2019), customer success with code-level fixes in PHP and Symfony at Arca Solutions (2017–2018), and web developer intern at MStech (2016).
 
 ## Education
 
-**Bachelor's in Information Systems** • Instituição Toledo de Ensino • 2015 – 2019  
-**Systems Analysis and Development** • Instituição Toledo de Ensino • 2023
+**Postgraduate in Software Architecture** · Infnet · in progress  
+**Bachelor's in Information Systems** · Instituição Toledo de Ensino · 2015 – 2019  
+**Systems Analysis and Development** · Instituição Toledo de Ensino · 2023
